@@ -2,6 +2,8 @@
 Please complete the issue as per the structure below.
 
 No need to delete these lines, they won't display when you post (you can check this via Preview changes).
+
+PLEASE USE YOUR PROJECT NAME AS THE ISSUE TITLE
 ============================"
 
 * **Project:** Name of your project or idea
