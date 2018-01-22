@@ -24,4 +24,4 @@ Explore the issues in this repo relating to the [soapbox](tag) and the [wish tre
 
 # Thank you for collaborating
 
-Lovely write-up by @rgaiacs @yoyehudi @dpshelio at https://software.ac.uk/blog/2018-01-15-mozfest-2017 :heart:
+Lovely write-up by @rgaiacs @yochannah @dpshelio at https://software.ac.uk/blog/2018-01-15-mozfest-2017 :heart:
