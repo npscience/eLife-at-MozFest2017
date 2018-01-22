@@ -23,3 +23,5 @@ It was fantastic to see the projects and contributions on offer — you can view
 Explore the issues in this repo relating to the [soapbox](tag) and the [wish tree](tag). The project leads have outlined any contributions they are seeking. If something interests you, please reach out to the project lead as indicated. Please also feel free to react, support and discuss the projects and ideas via these issues (and tag the project lead where possible!).
 
 # Thank you for collaborating
+
+Lovely write-up by @rgaiacs @yoyehudi @dpshelio at https://software.ac.uk/blog/2018-01-15-mozfest-2017 :heart:
